@@ -1,8 +1,7 @@
 ## Getting Started
 
-First, run the development server:
+First, run the development server using the following command:
 
-```bash
 npm run dev
 # or
 yarn dev
